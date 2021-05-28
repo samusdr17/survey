@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+.header{
+    display: flex;
+    // justify-content: space-around;
+    background-color: black;
+    width: auto;
+    height: 80px;
+    color: #fff;
+}
+.h2Head{
+    margin-left: 240px;
+    font-family: 'Zen Dots', cursive;
+    color: #fff;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    margin: 8px 24px 8px 24px;
+}

@@ -1,0 +1,23 @@
+.cover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 100%;
+}
+.divCenter{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    background-color: rgb(175, 175, 175);
+    width: 400px;
+    height: 400px;
+}
+.h1Cover{
+    text-align: center;
+    cursor: pointer;
+    font-family: 'Zen Dots', cursive;
+}
+.h1Cover:hover{
+    color: blue;
+}
